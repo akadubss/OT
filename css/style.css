@@ -1,16 +1,31 @@
-#section1 {
-    padding-top:10px;
-    height: 725px;
+  #parallax1 {
+    padding-top:50px;
+    height:400px;
     color: #fff;
     background-color: #1E88E5;
-    background-image: url(https://i.imgur.com/cRu4iq8.jpg);
+    z-index: -1;
+    background-image: url('../img/para.jpg');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	
+  }
+  
+    #parallax2 {
+    padding-top:50px;
+    height:400px;
+    color: #fff;
+    background-color: #1E88E5;
     z-index: -1;
-	  
-}
+    background-image: url('../img/lw.1.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+	}
+	
   #section2 {
     padding-top:50px;
     height:600px;
