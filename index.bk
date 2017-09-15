@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html >
 <head>
   <meta charset="UTF-8">
   <title>Standard Page?</title>
@@ -12,16 +12,16 @@
   
 </head>
 
-
 <body>
+  <body>
   <header> 
-  <a href=url('../img/lw.2.png') id="logo"></a>
+  <a href="#" id="logo">Dubss</a>
   <nav>
     <a href="#" id="menu-icon"></a>
     <ul>
         <li><a href="#" class="current">Home</a></li>
-        <li><a href="#About">About</a></li>
-        <li><a href="#Work">Work</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Work</a></li>
         <li><a href="#">Blog</a></li>
         <li><a href="#">Contact</a></li>
       </ul>
@@ -30,48 +30,30 @@
   
  
    
-<div id="background1" class="background1 container-fluid  img-responsive"></div>
-<!----<div class="just_pattern"></div> ----fuck with this later --->
-  
- 
-  
-<!---for some reason i need section 2 to work with the parallax--->
-
-<div id="parallax2" class="container-fluid img-responsive"></div>  
+<div id="parallax1" class="container-fluid  img-responsive">  </div>
+<div class="just_pattern"></div>
+  <h1 id="h1">John Weisbrodt</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
 
   
   
-	
-	
-<!----For somereason this works below but no where else...lol fuck me --->
-	
-<div id="About" class="About container-fluid img-responsive">
-  <h1 id="h1">About</h1>
+
+      <div id="section3" class="container-fluid img-responsive">
+  <h1 id="h1">John Weisbrodt</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  </div>
+  
+    <div id="parallax2" class="container-fluid img-responsive">  </div>
+        <div id="section4" class="container-fluid img-responsive">
+  <h1 id="h1">John Weisbrodt</h1>
   <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
   <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
   </div>
  
-
-
-
-<!---for some reason i need section 2 to work with the parallax--->
-
-<div id="parallax2" class="container-fluid img-responsive"> </div>  
-
-
-<div id="Work" class="container-fluid img-responsive">
-  <h1 id="h1">sections4</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  </div>
- 
-</body>
-
-
-
-	
-	
-
+ <div id="parallax1" class="container-fluid img-responsive">  </div>
+</div>
     
 <div class="footer">This was create by John Weisbrodt. This is an alpha</strong>.
   <br>
@@ -96,9 +78,7 @@
   </ul>
 
 </body>
+  
+  
+</body>
 </html>
-<!---<scripts>
-<script src="js/main.js"></script>
-</scripts>--->
-
-
